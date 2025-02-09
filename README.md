@@ -2,17 +2,6 @@
 
 # <p align="center">DDoS Attack Detection and Mitigation using Machine Learning</p>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?logo=github&style=for-the-badge)](https://github.com/ibrahim/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge&logo=git)](https://github.com/ibrahim/) 
-[![GitHub stars](https://img.shields.io/github/stars/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning/stargazers) 
-[![My stars](https://img.shields.io/github/stars/ibrahim?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge&logo=git)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning/network)
-[![Code size](https://img.shields.io/github/languages/code-size/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning)
-[![Languages](https://img.shields.io/github/languages/count/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning)
-[![Top](https://img.shields.io/github/languages/top/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge&label=Top%20Languages)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning)
-[![Issues](https://img.shields.io/github/issues/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?style=for-the-badge&label=Issues)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning)
-[![Watchers](https://img.shields.io/github/watchers/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning?label=Watch&style=for-the-badge)](https://github.com/ibrahim/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning/) 
-
 `DDoS Attack Detection and Mitigation using Machine Learning`
 
 ![image](https://user-images.githubusercontent.com/78417411/204220907-67fb2338-1023-4404-8320-b7c2967bd0a3.png)
